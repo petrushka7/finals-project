@@ -1,0 +1,145 @@
+[
+      {
+            "id": 1,
+            "firstName": "გიორგი",
+            "lastName": "გიორგაძე",
+            "gender": "male",
+            "address": "1234 სადმე",
+            "city": " ბათუმი ",
+            "orders": [
+                {"productName": "წიგნი", "itemCost": 7.99},
+                {"productName": "ფანქრები", "itemCost": 4.99}
+            ],
+            "latitude": 33.299,
+            "longitude": -111.963
+      },
+      {
+            "id": 2,
+            "firstName": "ელენე",
+            "lastName": "კოლჩაკი",
+            "gender": "female",
+            "address": "345 სადღაც",
+            "city": "თბილისი",
+            "orders": [
+                {"productName": "კატის საჭმელი", "itemCost": 2.99},
+                {"productName": "ქუდი", "itemCost": 5.99}
+            ],
+            "latitude": 33.037,
+            "longitude": -117.291
+      },
+      {
+            "id": 3,
+            "firstName": "ნანუკა",
+            "lastName": "კანდელაკი",
+            "gender": "female",
+            "address": "აიიქ 1234",
+            "city": "თბილისი",
+            "orders": [
+                {"productName": "სახის მოვლის საშუალებები", "itemCost": 29.99},
+                {"productName": "ჩაფხუტი", "itemCost": 19.99},
+                {"productName": "ავსტრალიის დროშა", "itemCost": 179.99}
+            ],
+            "latitude": 47.596,
+            "longitude": -122.331
+      },
+      {
+            "id": 4,
+            "firstName": "კატო",
+            "lastName": "კანდელაკი",
+            "gender": "female",
+            "address": "აიიქ 1234",
+            "city": "ჭიათურა",
+            "orders": [
+                {"productName": "მანიკური", "itemCost": 19.99},
+                {"productName": "ყურსასმენები", "itemCost": 5.49}
+            ],
+            "latitude": 33.299,
+            "longitude": -111.963
+      },
+      {
+            "id": 5,
+            "firstName": "ნიკო",
+            "lastName": "მალეც",
+            "gender": "male",
+            "address": "სადღაც 1245",
+            "city": " თბილისი",
+            "orders": [
+                {"productName": "პროცესორი", "itemCost": 399.99},
+                {"productName": "მონიტორი", "itemCost": 69.99}
+            ],
+            "latitude": 32.782927,
+            "longitude": -96.806191
+      },
+      {
+            "id": 6,
+            "firstName": "ლუკა",
+            "lastName": "ვაშაკიძე",
+            "gender": "male",
+            "address": "123 არვიცი",
+            "city": "ნიუ იორკი",
+            "orders": [
+                {"productName": "მაისური", "itemCost": 9.99},
+                {"productName": "მაისური#2", "itemCost": 19.99}
+            ],
+            "latitude": 28.384238,
+            "longitude": -81.564103
+      },
+      {
+            "id": 7,
+            "firstName": "მარიამ",
+            "lastName": "მილდიანი",
+            "gender": "female",
+            "address": "სადღაც 1245",
+            "city": "თბილისი",
+            "orders": [
+                {"productName": "ველოსიპედი", "itemCost": 299.99},
+                {"productName": "გამაგრილებელი სასმელი", "itemCost": 5.99},
+                {"productName": "კაშნი", "itemCost": 15.99}
+            ],
+            "latitude": 35.727985,
+            "longitude": -78.797594
+      },
+      {
+            "id": 8,
+            "firstName": "თამილა",
+            "lastName": "კარლოძე",
+            "gender": "female",
+            "address": "დოლიძის 9",
+            "city": "თბილისი",
+            "orders": [
+                {"productName": "ლუდი", "itemCost": 599.99},
+                {"productName": "საქორწილო ტორტი", "itemCost": 79.99}
+            ],
+            "latitude": 33.809898,
+            "longitude": -117.918757
+      },
+      {
+            "id": 9,
+            "firstName": "ლუკა",
+            "lastName": "გაგრაძე",
+            "gender": "male",
+            "address": "სადღაც 1245",
+            "city": " თბილისი",
+            "orders": [
+                {"productName": "წიგნი", "itemCost": 9.99},
+                {"productName": "დანა-ჩანგალი", "itemCost": 19.99}
+            ],
+            "latitude": 28.384238,
+            "longitude": -81.564103
+      },
+      {
+            "id": 10,
+            "firstName": "სალომე",
+            "lastName": "კასრაძე",
+            "gender": "female",
+            "address": "სადღაც 1245",
+            "city": "თბილისი",
+            "orders": [
+                {"productName": "ჩანთა", "itemCost": 299.99},
+                {"productName": "სანთელი", "itemCost": 5.99},
+                {"productName": "წამალი", "itemCost": 7.99}
+            ],
+            "latitude": 33.762297, 
+            "longitude": -84.392953
+      }
+]
